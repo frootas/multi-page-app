@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/multi-page-app/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/multi-page-app/static/js/main.5ca227da.chunk.js",
-    "main.js.map": "/multi-page-app/static/js/main.5ca227da.chunk.js.map",
+    "main.js": "/multi-page-app/static/js/main.2ce2b79e.chunk.js",
+    "main.js.map": "/multi-page-app/static/js/main.2ce2b79e.chunk.js.map",
     "runtime-main.js": "/multi-page-app/static/js/runtime-main.285370a7.js",
     "runtime-main.js.map": "/multi-page-app/static/js/runtime-main.285370a7.js.map",
     "static/js/2.f6ac696c.chunk.js": "/multi-page-app/static/js/2.f6ac696c.chunk.js",
     "static/js/2.f6ac696c.chunk.js.map": "/multi-page-app/static/js/2.f6ac696c.chunk.js.map",
     "index.html": "/multi-page-app/index.html",
-    "precache-manifest.a1347b1657f4ccf435d8037628e17c77.js": "/multi-page-app/precache-manifest.a1347b1657f4ccf435d8037628e17c77.js",
+    "precache-manifest.dd52051ec3a430ec6d8062cfa6c7c71d.js": "/multi-page-app/precache-manifest.dd52051ec3a430ec6d8062cfa6c7c71d.js",
     "service-worker.js": "/multi-page-app/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/multi-page-app/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.f6ac696c.chunk.js.LICENSE.txt": "/multi-page-app/static/js/2.f6ac696c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.285370a7.js",
     "static/js/2.f6ac696c.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.5ca227da.chunk.js"
+    "static/js/main.2ce2b79e.chunk.js"
   ]
 }
